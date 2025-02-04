@@ -47,6 +47,18 @@ These are a few of the attachments I've gotten a lot of use out of.
 * [6" USB-C Cables](https://amzn.to/40ZhX7D) extra-short cables for USB-C accessories
 * [ZipIt Monster Pouch](https://amzn.to/411hAtj) or something similar to carry small accessories in. Be sure to make it fun, though.
 
+## Cyberdeck Android/GrapheneOS Apps
+These tools won't make you a hacker, but you can try to look like one! Apps that try to force the display into portrait mode (like Instagram) will often work better in Split-Screen mode.  
+You can find most of these in the play store, Aurora store, or APKPure:
+* Termux - A Linux Shell with installable CLI tools 
+* ConnectBot - A minimal SSH client
+* SDRTouch - An easy-to-use Software Defined Radio tuner app for analog signals
+* SDRAngel - A Powerful Software Defined Radio app
+* WiGLE - The definitive Wardriving app
+* Wifi Analyzer - Map wifi signal strength and troubleshoot congested channels
+* nRF Connect - A powerful Bluetooth multi-tool
+* NFC Tools - Read, copy and write NFC tags
+
 ## Assembly Photos
 ![Parts](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Assembly/1.jpg)
 ![O-Rings](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Assembly/2.jpg)
