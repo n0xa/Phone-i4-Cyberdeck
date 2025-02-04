@@ -2,7 +2,7 @@
 Plans to turn a rugged phone case and mini keyboard into a mini-laptop cyberdeck.  
 This project was built specifically around the Google Pixel 8 Pro with GrapheneOS, The Rii i4 Mini Keyboard, and the OtterBox Defender Case and Holster for the Pixel 8 Pro.  
 
-![Radio](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Gallery/cyberdeck.gif) ![Code](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Gallery/cyberdeck-parts.png)
+![CYBERDECK](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Gallery/cyberdeck.gif) ![Parts](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Gallery/cyberdeck-parts.png)
 
 
 <sup><sub>Many of the links on this page are affiliate links for which I may receive some sort of commission. I have purchased all of these products myself at full retail price and found them useful enough for this project to recommend them.</sub></sup>
