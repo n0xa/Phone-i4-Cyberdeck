@@ -5,8 +5,7 @@ This project was built specifically around the Google Pixel 8 Pro with GrapheneO
 ![CYBERDECK](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Gallery/cyberdeck.gif) ![Parts](https://github.com/n0xa/Phone-i4-Cyberdeck/blob/main/Gallery/cyberdeck-parts.png)
 
 
-<sup><sub>Many of the links on this page are affiliate links for which I may receive some sort of commission. I have purchased all of these products myself at full retail price and found them useful enough for this project to recommend them.</sub></sup>
-<sup><sub>Brand names featured on this page are for reference only and I do not represent these companies. The author is not responsible for damage to devices or parts that occur due to reproducing this project.</sub></sup>
+Many of the links on this page are affiliate links for which I may receive some sort of commission. I have purchased all of these products myself at full retail price and found them useful enough for this project to recommend them.  Brand names featured on this page are for reference only and I do not represent these companies or claim any trademark. The author is not responsible for damage to devices or parts that occur due to reproducing this project.
 
 ## Parts Needed
 * [Rii i4 Mini Bluetooth/USB Keyboard](https://amzn.to/3PZNBvq)
